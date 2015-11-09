@@ -1,0 +1,6 @@
+public abstract class ExpAbstraite {
+
+    public String toStringInfixe () {
+	return "Je suis une expression et me voila en notation infixée : <ici, la notation infixée>";
+    }
+}

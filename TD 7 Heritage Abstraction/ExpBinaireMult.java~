@@ -1,0 +1,9 @@
+public class ExpBinaireMult extends ExpBinaire {
+    public ExpBinaireMult (ExpAbstraite opGauche, ExpAbstraite opDroite) {
+	super.setOpGauche(opGauche);
+	super.setOpDroite(opDroite);
+    }
+    
+    
+    
+}
